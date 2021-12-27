@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="CSS/img/LicenceIV.png">
+  </head>
+  <body>
+    <div id="site">
+      <div id="banner1">
+        <p><span style="color: white;"><span style="font-family: Bahnschrift;">SRIRAM's
+              First WebSite </span></span></p>
+      </div>
+      <div id="menu"><span style="font-family: Bahnschrift;"> </span>
+        <ul>
+          <span style="font-family: Bahnschrift;"> </span>
+          <li><span style="font-family: Bahnschrift;"><a href="index.html">Accueil</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="projet.html">Projet</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="manga.html">Manga</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="Logiciels.html">Logiciel</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="contact.html">Contact</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="cv.html">CV</a></span></li>
+        </ul>
+      </div>
+      <div id="banner2"> <a href="https://informatique.up8.edu/licence-iv/"><img
+            class="licenceIV" src="CSS/img/LicenceIV.png"></a> </div>
+      <div style="height: 472px;" id="contenuprincipal">
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+            style="font-family: Trajan Pro;"><span> </span><u><b><span>Bienvenue
+                  sur mon site ! </span></b></u></span></h3>
+        <h4> <ins style="font-family: Candara;">PRESENTATION</ins> </h4>
+        <p style="height: 43px;"> <span style="font-family: Minion Pro;">Je
+            m'appelle Miken BHAVSAR. <br>
+            J'ai 18 ans. <br>
+            Je souhaiterais devenir Développeur d'applications. <br>
+          </span></p>
+        <p><span style="font-family: Minion Pro;">Je suis un étudiant en
+            premiére année de Licence Informatique à l'Université Paris 8. </span><br>
+        </p>
+        <p style="margin-top: -2px; height: 15px;"><span style="font-family: Courier New,Courier,monospace;"><br>
+          </span></p>
+        <a href="https://github.com/Sriram448" title="Mon github" target="_blank"><img
+            src="CSS/img/GitHub-Mark.png" alt="logogithub" title="logogithub" style="width: 163px; height: 163px;">J'ai
+          une page&nbsp; GitHub</a><a href="https://discord.gg/uhNPGXV7"><img src="CSS/img/discord-logo-4-1.png"
+            alt="logodiscord" title="logodiscord" style="width: 142px; height: 142px;">
+        </a><a href="https://discord.gg/uhNPGXV7">Voici Mon discord</a></div>
+      <div style="height: 77px; margin-top: -22px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://discord.gg/uhNPGXV7"><br>
+        </a></div>
+      <div id="textbas">
+        <p><span style="font-family: Candara;">Accueil</span></p>
+      </div>
+    </div>
+  </body>
+</html>

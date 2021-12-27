@@ -1,0 +1,75 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>ACCUEIL</title>
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="CSS/img/LicenceIV.png">
+  </head>
+  <body>
+    <div>
+      <div id="banner1">
+        <p><span style="color: white;"><span style="font-family: Bahnschrift;">SRIRAM's
+              First WebSite </span></span></p>
+      </div>
+      <div id="menu"><span style="font-family: Bahnschrift;"> </span>
+        <ul>
+          <span style="font-family: Bahnschrift;"> </span>
+          <li><span style="font-family: Bahnschrift;"><a href="index.html">Accueil</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="projet.html">Projet</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="manga.html">Manga</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="Logiciels.html">Logiciel</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="contact.html">Contact</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="cv.html">CV</a></span></li>
+        </ul>
+      </div>
+      <div id="banner2"> <img class="licenceIV" src="CSS/img/LicenceIV.png"> </div>
+      <div id="contenuprincipal">
+        <p></p>
+        <h4><u>PROJET BOMBERMAN 2D:</u></h4>
+        <br>
+        <img src="CSS/img/Ma%20vid%C3%A9o.gif" alt="bomberman" title="bomberman"
+          style="width: 538px; height: 302px;"><br>
+        <p> Dans ce projet, j'ai réalisé un jeu vidéo qui s'appelle Bomberman. <br>
+          <br>
+          Pour cela, télécharger le zip incluant le jeu : <a href="https://bigfiles.univ-paris8.fr/d10f9p72">BOMBERMAN</a>
+          <br>
+          Afin de jouer à mon jeu Bomberman vous devrez installé le logiciel : <a
+            href="https://godotengine.org/download">Godot Engine</a>.</p>
+        <p><u><b>Projet YoutubeDownloader:</b></u></p>
+        <img src="CSS/img/dchnosf-b713d192-f87a-4e1e-b9d8-fdee14f8e0f6.png" alt="ytb"
+          title="ytb">
+        <p> <span style="font-family: Minion Pro;"><br>
+            Ce projet a été fait par Python,<span style="color: #00283c; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">est
+              un logiciel de téléchargement de vidéos sur le site éponyme. Il
+              offre à l’utilisateur l’opportunité de copier sur son disque dur
+              ses vidéos préférées, et ce, en un rien de temps. Le logiciel
+              prend en charge le téléchargement en lot de fichier en créant une
+              liste de transfert. On peut également configurer les paramètres
+              comme le dossier de stockage des nouveaux fichiers.</span></span><span
+            style="color: #00283c; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></p>
+        <p><span style="color: #00283c; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; font-family: Minion Pro;">Le
+            mode d’utilisation de ce logiciel le rend très pratique. En effet,
+            tout ce que l’utilisateur doit faire, c’est de rechercher les vidéos
+            sur YouTube. Une fois qu’il en a trouvé une, il suffit de copier
+            l’URL et le coller sur l’interface. Une fois ces actions
+            entreprises, un clic suffit pour démarrer le téléchargement. Bien
+            entendu, la vidéo sera encodée dans un format lisible par la plupart
+            des lecteurs.</span><br>
+          <span style="color: #00283c; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span></p>
+        <p><span style="color: #00283c; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: white; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"></span><br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

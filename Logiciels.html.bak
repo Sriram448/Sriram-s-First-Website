@@ -1,0 +1,91 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>ACCUEIL</title>
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="CSS/img/LicenceIV.png">
+  </head>
+  <body>
+    <div id="site">
+      <div id="banner1">
+        <p><span style="color: white;"><span style="font-family: Bahnschrift;">SRIRAM's
+              First WebSite </span></span></p>
+      </div>
+      <div id="menu"><span style="font-family: Bahnschrift;"> </span>
+        <ul>
+          <span style="font-family: Bahnschrift;"> </span>
+          <li><span style="font-family: Bahnschrift;"><a href="index.html">Accueil</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="projet.html">Projet</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="manga.html">Manga</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="Logiciels.html">Logiciel</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="contact.html">Contact</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="cv.html">CV</a></span></li>
+        </ul>
+      </div>
+      <div id="banner2"> <img class="licenceIV" src="CSS/img/LicenceIV.png"> </div>
+      <div id="contenuprincipal"><u><b><span style="font-family: Bahnschrift;">les
+              logiciels utilisés :</span></b></u></div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="CSS/img/godotlogo.png" alt="godot" title="godot " style="width: 220px; height: 157px;"><span
+        style="font-family: Minion Pro;"><b>1-Godot Engine</b>&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="CSS/img/d3ee6mj-f554e9c2-b0ad-4dc3-8863-dfa6331acb2f.png" alt="dracket"
+        title="dracket" style="width: 140px; height: 140px;"><span style="font-family: Minion Pro;"><b>2-Dr.Rcket&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="CSS/img/texWorks.png" alt="texworks" title="texworks" style="width: 138px; height: 148px;"><b><span
+          style="font-family: Minion Pro;">3-TeXworks</span></b></div>
+    <div><span style="font-family: Minion Pro;"><br>
+      </span></div>
+    <div><span style="font-family: Minion Pro;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <br></span></div>
+    <div><span style="font-family: Minion Pro;"><br>
+      </span></div>
+    <div><span style="font-family: Minion Pro;"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="CSS/img/Python.jpg" alt="python" title="python" style="width: 133px; height: 133px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span
+        style="font-family: Minion Pro;"> 4-<b>Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="CSS/img/b5fvHOPG.jpg" alt="libresprite" title="libresprite" style="width: 138px; height: 138px;">5-<b>LibreSprite</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <img src="CSS/img/1200px-Calligrakrita-base.svg.png"
+          alt="krita" title="krita" style="width: 113px; height: 103px; margin-top: -43px;"><b>6-Krita</b></span></div>
+    <div><span style="font-family: Adobe Devanagari;"><b><br>
+        </b></span></div>
+    <span style="font-family: Adobe Devanagari;"> </span>
+    <div><span style="font-family: Bahnschrift;"><b>1-Godot est un moteur de jeu
+          multiplateforme, c'est-à-dire un logiciel permettant de créer des jeux
+          vidéo qui est compatible avec différents systèmes d'exploitation. <br>
+        </b></span></div>
+    <span style="font-family: Bahnschrift;"> </span>
+    <div><span style="font-family: Bahnschrift;"><b>2-Racket est un langage de
+          programmation de la famille Lisp. Il fait partie du projet Racket, qui
+          regroupe plusieurs variantes du langage Scheme ainsi qu'une série
+          d'outils pour les utiliser. L'un de ses objectifs est de servir de
+          plate-forme pour la création, la conception et l'implémentation.</b></span></div>
+    <span style="font-family: Bahnschrift;"> </span>
+    <div><span style="font-family: Bahnschrift;"><b>3-TeXworks est un logiciel
+          sous licence publique générale GNU pour les systèmes d'exploitation
+          Windows, GNU/Linux, ou Mac OS X. Il s'agit d'une interface graphique
+          pour le logiciel TeX et ses extensions LaTeX, ConTeXt et XeTeX.
+          L'application est écrite en C++ et basée sur la bibliothèque Qt.</b></span></div>
+    <span style="font-family: Bahnschrift;"> </span>
+    <div><span style="font-family: Bahnschrift;"><b>4-Python est un langage de
+          programmation interprété, multi-paradigme et multiplateformes. Il
+          favorise la programmation impérative structurée, fonctionnelle et
+          orientée objet.</b></span></div>
+    <span style="font-family: Bahnschrift;"> </span>
+    <div><span style="font-family: Bahnschrift;"><b>5-LibreSprite&nbsp; permet
+          de dessiner du pixel art / sprites, et de les animer avec un système
+          de calques et de frames. Vous pouvez prévisualiser vos animations en
+          temps réel et bosser sur plusieurs sprites en même temps.</b></span></div>
+    <span style="font-family: Bahnschrift;"> </span>
+    <div><span style="font-family: Bahnschrift;"><b>6-Krita est l'outil
+          d'édition et de retouche d'image matricielle inclus dans le projet
+          KDE. Initialement inspiré de logiciels tels que GIMP ou Adobe
+          Photoshop, il est aujourd'hui orienté pour la peinture numérique et
+          l'animation 2D. C'est un logiciel libre, gratuit et open source sous
+          licence GNU GPL.</b></span><br>
+      <div id="textbas">
+        <div id="textbas">
+          <p><span style="font-family: Candara;">Logiciel<br>
+            </span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

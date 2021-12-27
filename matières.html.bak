@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>ACCUEIL</title>
+    <link rel="stylesheet" type="text/css" href="CSS/style.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="CSS/img/LicenceIV.png">
+  </head>
+  <body>
+    <div id="site">
+      <div id="banner1">
+        <p><span style="color: white;"><span style="font-family: Bahnschrift;">SRIRAM's
+              First WebSite </span></span></p>
+      </div>
+      <div id="menu"><span style="font-family: Bahnschrift;"> </span>
+        <ul>
+          <span style="font-family: Bahnschrift;"> </span>
+          <li><span style="font-family: Bahnschrift;"><a href="index.html">Accueil</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="projet.html">Projet</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="manga.html">Manga</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="logiciel.html">Logiciel</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="contact.html">Contact</a></span></li>
+          <li><span style="font-family: Bahnschrift;"><a href="cv.html">CV</a></span></li>
+        </ul>
+      </div>
+      <div id="banner2"> <img class="licenceIV" src="CSS/img/LicenceIV.png"> </div>
+      <div id="contenuprincipal"><u><b><span style="font-family: Bahnschrift;">les
+              logiciels utilisés :</span></b></u></div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="file:///C:/Users/srira/OneDrive/Bureau/Mon%20Site%20Web/CSS/img/godotlogo.png"
+        alt="godot" title="godot " style="width: 220px; height: 157px;"><span style="font-family: Minion Pro;">Godot
+        Engine&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="file:///C:/Users/srira/OneDrive/Bureau/Mon%20Site%20Web/CSS/img/d3ee6mj-f554e9c2-b0ad-4dc3-8863-dfa6331acb2f.png"
+        alt="dracket" title="dracket" style="width: 140px; height: 140px;"><span
+        style="font-family: Minion Pro;">Dr.Rcket&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="file:///C:/Users/srira/OneDrive/Bureau/Mon%20Site%20Web/CSS/img/texWorks.png"
+        alt="texworks" title="texworks" style="width: 138px; height: 148px;"><span
+        style="font-family: Minion Pro;">TeXworks</span><br>
+      <div id="textbas">
+        <div id="textbas">
+          <p><span style="font-family: Candara;">Logiciel<br>
+            </span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

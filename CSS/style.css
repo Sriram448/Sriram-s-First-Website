@@ -1,0 +1,126 @@
+body {
+	overflow-x: hidden;
+	margin: 0;
+}
+
+/*#site {
+	width: 1000px;
+	margin: auto;
+	background-color: bleu;
+}*/
+
+#banner1 {
+	display: block;
+	background-color: #00285c;
+	height: 50px;
+	width: 100%;
+}
+
+
+
+.licenceIV {
+   position: absolute;
+	width: 5%;
+    left: -120px;
+    padding: 50px 28px 0 140px;
+    top: 5px;
+    height: 120PX;
+	display: flex;
+
+    
+}
+.mon_image {
+float: left;
+}
+
+#column1 .cover {
+    width: 180px;
+	
+}	
+#column2 .title {
+    font-size: 20px;
+    color: #333;
+    font-weight: 700;
+}
+
+#banner1 p {
+	position: relative;
+	font-weight: bold;
+	font-size: 30px;
+	top: 7px;
+	margin: 0;
+	text-align: center;
+}
+
+#menu {
+	min-width: 500px;
+	width: 100%;
+	height: 100px;
+	position: relative;
+	background-color: #004bad;
+}
+
+#menu ul {
+	float: left;
+	left: 50%;
+	position: relative;
+	padding-top: 15px;
+	margin-left: -60px;
+}
+
+#menu ul li {
+	margin-left: 20px;
+	float: left;
+	list-style-type: none;
+	position: relative;
+	left: -50%;
+}
+
+#menu ul li a {
+	text-align: center;
+	padding-top: 10px;
+	display: inline-block;
+	background-color: #0033db;
+	height: 30px;
+	width: 100px;
+	color: white;
+	text-decoration: none;
+}
+
+#menu ul li a:hover {
+	color: white;
+	background-color: red;
+}
+
+#banner2 {
+	display: block;
+	background-color: #004bad;
+	height: 50px;
+	width: 100%;
+}
+
+#contenuprincipal {
+    display: block;
+    width: 1000px;
+    padding: 3%;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#textbas {
+	text-align: center;
+	display: block;
+	background-color: #cccccc;
+	height: 60px;
+}
+
+#textbas p {
+	color: #17202A;
+	font-weight: bold;
+	position: relative;
+	top: 18px;
+}
+
+.post-content p {
+    text-align: justify;
+}
